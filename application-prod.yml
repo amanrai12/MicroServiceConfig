@@ -1,7 +1,7 @@
 
 spring:
  application:
-    name:CONFIG-PROD-DEFAULT
+    name: CONFIG-PROD-DEFAULT
 
 eureka:
   instance:
